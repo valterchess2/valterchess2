@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @valterchess2
+- 👀 I’m interested in java
+- 🌱 I’m currently learning java, reactive architecture front-end e react
+- 💞️ I’m looking to collaborate on web development, agile with SCRUM and reative architecture
