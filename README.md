@@ -9,7 +9,6 @@
  </a>
  </div>
  <ul>
-   <li>Programador iot
    <li>Portfolio - <a href="https://valterchess.vercel.app"> https://valterchess.vercel.app/  </a>
   </ul>
 <div>
