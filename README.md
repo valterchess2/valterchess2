@@ -12,7 +12,7 @@
    <li>Portfolio - <a href="https://valterchess.vercel.app"> https://valterchess.vercel.app/  </a>
   </ul>
 <div>
-  <a href="https://github.com/valterchess">
+  <a href="https://github.com/valterchess2">
   <img height="160px" src="https://github-readme-stats.vercel.app/api?username=valterchess2&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>  
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valterchess2&layout=compact&langs_count=8&theme=gotham"/>
 </div>
