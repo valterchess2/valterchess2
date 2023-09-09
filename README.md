@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Valter Silva
 - 👀 I’m interested in java, spring, Software Architecture, SQL & MySQL, TypeScript and web development.
-- 🌱 I’m currently learning java, python, typescript, javascript, microservices, GCP and others tools and skills.
+- 🌱 Atualmente sou desenvolvedor backend java 3 na Magna sistemas
 - <a href="https://cursos.alura.com.br/minha-trilha-java-valter-silva-dev-1653425158757-p370806">Plano de estudos java - Alura</a>
  <div>
     <a href="https://www.linkedin.com/in/valter-silva-5a44b1171/">
